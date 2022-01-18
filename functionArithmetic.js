@@ -10,6 +10,7 @@ A few examples:(Input1, Input2, Input3 --> Output)
 5, 2, "subtract" --> 3
 5, 2, "multiply" --> 10
 5, 2, "divide"   --> 2.5
+https: //www.codewars.com/kata/583f158ea20cfcbeb400000a/solutions/javascript
 */
 
 function arithmetic(a, b, operator) {
